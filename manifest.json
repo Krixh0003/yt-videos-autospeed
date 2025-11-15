@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Auto Speed",
+    "version": "1.0",
+    "description": "Automatically sets YouTube video speed to 1.75x",
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["speed.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
