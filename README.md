@@ -34,4 +34,4 @@ The extension listens for the YouTube player to load and applies your saved spee
 ⚠️ Caution
 
 This extension automatically forces every YouTube video in every Chrome tab to play at your selected speed (e.g., 1.5x or 1.75x).
-If you want to watch videos at normal speed, use Incognito Mode or disable the extension temporarily
+If you want to watch videos at normal speed, use Incognito Mode or disable the extension temporarily.
